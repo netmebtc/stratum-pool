@@ -25,10 +25,17 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
+<<<<<<< HEAD
         "url": "https://github.com/Stackout/node-stratum-pool.git"
     },
     "dependencies": {
         "multi-hashing": "git://github.com/Stackout/node-multi-hashing.git",
+=======
+        "url": "https://github.com/stackout/node-stratum-pool.git"
+    },
+    "dependencies": {
+        "multi-hashing": "git://github.com/stackout/node-multi-hashing.git",
+>>>>>>> baa1fc9b0bc0bfad27c767de467fb1764f5af1a5
         "bignum": "0.12.5",
         "base58-native": "*",
         "async": "*"
