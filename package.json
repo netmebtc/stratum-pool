@@ -29,7 +29,7 @@
     },
     "dependencies": {
         "multi-hashing": "git://github.com/Stackout/node-multi-hashing.git",
-        "bignum": "0.12.5",
+        "bignum": "0.13.0",
         "base58-native": "*",
         "async": "*"
     },
